@@ -4,7 +4,7 @@ import socket
 import sys
 
 HOST = 'localhost' # maquina onde esta o par passivo
-PORTA = 5000       # porta que o par passivo esta escutando
+PORTA = 5001       # porta que o par passivo esta escutando
 
 def main():
 
